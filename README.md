@@ -2,21 +2,21 @@
 
 💇‍♀**With a great website, you can introduce yourself to your customers and fully describe the services you provide.**
 
-![1](https://user-images.githubusercontent.com/126666369/224512038-8cbfc5d4-b3db-49de-bdc9-27504bbae833.jpg)
+![1](https://github.com/Melika-haqshenas-web/Hair-Salon/assets/126666369/6f1bca48-dc60-4ecd-b8ec-b48367e0c806)
 
-![2](https://user-images.githubusercontent.com/126666369/224512075-5fa81558-8182-49ab-9e7f-38b6c754632b.jpg)
+![2](https://github.com/Melika-haqshenas-web/Hair-Salon/assets/126666369/fde1b86b-d333-419c-9ff7-15b18f4257ba)
 
-![3](https://user-images.githubusercontent.com/126666369/224512089-2b73e62b-edd6-4600-a702-63fee65d7a9e.jpg)
+![3](https://github.com/Melika-haqshenas-web/Hair-Salon/assets/126666369/b726cb50-4895-4117-b8db-3510e8dd2d4f)
 
-![4](https://user-images.githubusercontent.com/126666369/224512091-0792ef2b-3b10-493c-ba3d-9e96eea55734.jpg)
+![4](https://github.com/Melika-haqshenas-web/Hair-Salon/assets/126666369/972ca507-8dc4-405c-a8e7-a50dd9ac86aa)
 
-![5](https://user-images.githubusercontent.com/126666369/224512093-9c584985-3bf9-4f5c-9c47-631a6ed09eef.jpg)
+![5](https://github.com/Melika-haqshenas-web/Hair-Salon/assets/126666369/f45c2a4e-6235-4f8b-91c0-fd9190bfd45f)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Hair-Salon/)
 
 👩‍💻- Developed by Melika-haqshenas-web
 
-📅- Created - 2023-03-27
+📅- Created - 2023-06-04
 
 ⌨- Technologies Used - Html , Tailwind , Responsive
 
